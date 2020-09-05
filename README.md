@@ -1,4 +1,4 @@
-# Flutter Login and Register UI. 
+# Flutter Walkthrough UI. 
 
 Flutter WalkThrough UI. 
 This is a simple flutter application where I have designed WalkThrough UI.
